@@ -1,4 +1,4 @@
-# These are notebooks on kaggle Geospatial Analysis
+# Notebooks on kaggle (Geospatial Analysis)[https://www.kaggle.com/learn/geospatial-analysis]
 ```
 = first map exercise:
 This project explores Kiva loan distribution in the Philippines using geospatial analysis. 
